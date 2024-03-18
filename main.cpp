@@ -1,3 +1,13 @@
+/*************************************************************************
+** Author : Journey
+** Program : hw3, q1
+** Date Created : March 15, 2024
+** Date Last Modified : March 17, 2024
+** Problem:
+Accept the following information from the user (keyboard):
+Create 3 new classes based on the person class and example their usage
+*************************************************************************/
+
 #include <iostream>
 #include "Person.h"
 #include "Employee.h"
